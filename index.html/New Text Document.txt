@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Preethi Savoury | Tradition That Tastes Timeless</title>
+  <meta name="description" content="Preethi Savoury brings authentic coastal flavours from Mangalore. Traditional pickles, chutneys and masalas made with care and heritage."/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<header class="hero">
+  <div class="container">
+    <img src="logo.png" alt="Preethi Savoury Logo" class="logo"/>
+    <h1>Tradition That Tastes Timeless</h1>
+    <p>Authentic coastal flavours from Mangalore, crafted using time-honoured recipes and modern hygiene.</p>
+    <a href="#products" class="btn">Explore Our Products</a>
+  </div>
+</header>
+
+<section class="about">
+  <div class="container">
+    <h2>About Preethi Savoury</h2>
+    <p>
+      Preethi Savoury was born from the kitchens of coastal Karnataka, where food is not just prepared,
+      it is preserved as culture. Every recipe we create is rooted in tradition, inspired by generations
+      of home cooking and refined for today’s world.
+    </p>
+    <p>
+      We believe great taste comes from patience, quality ingredients, and respect for heritage.
+      Our products are made in small batches to maintain authenticity, aroma, and soul.
+    </p>
+  </div>
+</section>
+
+<section id="products" class="products">
+  <div class="container">
+    <h2>Our Products</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>Traditional Pickles</h3>
+        <p>Bold, tangy, and deeply rooted in coastal kitchens. Made the old way, just like home.</p>
+      </div>
+      <div class="card">
+        <h3>Dry Fish Chutney</h3>
+        <p>A signature coastal delight. Rich in flavour, perfect with rice, dosa, or roti.</p>
+      </div>
+      <div class="card">
+        <h3>Fish Masala</h3>
+        <p>Aromatic spice blend crafted to bring out the true taste of coastal seafood.</p>
+      </div>
+      <div class="card">
+        <h3>Ready Rice (Coming Soon)</h3>
+        <p>Traditional meals, modern convenience. Real food for real days.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="why">
+  <div class="container">
+    <h2>Why Choose Preethi Savoury</h2>
+    <ul>
+      <li>Authentic coastal recipes</li>
+      <li>Small-batch preparation</li>
+      <li>No unnecessary chemicals</li>
+      <li>Traditional taste with modern hygiene</li>
+      <li>Rooted in Mangalore’s food culture</li>
+    </ul>
+  </div>
+</section>
+
+<section class="contact">
+  <div class="container">
+    <h2>Contact Us</h2>
+    <p>For orders, partnerships, or enquiries:</p>
+    <p><strong>Email:</strong> preethisavoury@gmail.com</p>
+    <p><strong>Location:</strong> Mangalore, Karnataka, India</p>
+    <a href="mailto:preethisavoury@gmail.com" class="btn">Email Us</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Preethi Savoury. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
